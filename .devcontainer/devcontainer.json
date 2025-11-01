@@ -19,7 +19,7 @@
     // Configure tool-specific properties.
     // "customizations": {},
     // Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
-    // "remoteUser": "root",
+    "remoteUser": "coder",
     //    "mounts": [
     //        "source=${localWorkspaceFolder}/.devcontainer/maven-settings.xml,target=/root/.m2/settings.xml,type=bind,consistency=cached"
     //    ],
